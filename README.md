@@ -11,6 +11,6 @@ Muheedin/Muheedin is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 Muheedin is interested in coding;
- Muheedin is currently learning in college;
+ Muheedin is currently learning in bca;
   looking to collaborate on project;
-  
+   
